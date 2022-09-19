@@ -14,7 +14,7 @@ here is the [roadmap](https://docs.google.com/document/u/0/d/1Y6yScW88oaN5jHgcyo
   👉 Private & public methods \
   👉 Inheritance between classes\
   👉 Store data in local storage\
-  👉 Working with 3rd party library [leaflet](leafletjs.com/)\
+  👉 Working with 3rd party library [leaflet.js](https://leafletjs.com/)\
   👉 Store data in local storage\
   👉 Retrieve data from local storage\
 
