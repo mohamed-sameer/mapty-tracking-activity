@@ -66,4 +66,4 @@ to be able to run the project locally and view the code you'll need to have
 
 ## Live Demo
 
-🔗 [Mapty]()
+🔗 [Mapty](https://mapty-mo.netlify.app/)
